@@ -1,0 +1,12 @@
+{
+    "input_field": {
+        "x": 2274,
+        "y": 1050
+    },
+    "login_button": {
+        "x": 1894,
+        "y": 1171
+    },
+    "sleep_time": 0.05,
+    "min_password_length": 3
+}
